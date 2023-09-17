@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Christian Firmi</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+- 🔭 I’m currently working on **Revel**
+
+- 🌱 I’m currently learning **Google-Advanced-Data-Analytics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/elritz?tab=repositories](https://github.com/elritz?tab=repositories)
+
+- 💬 Ask me about **React Native, React, GraphQL**
+
+- 📫 How to reach me **christianfirmi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
